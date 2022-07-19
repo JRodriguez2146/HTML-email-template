@@ -1,7 +1,6 @@
 # HTML-email-template
 These templates were created using HTML, inline CSS, and table based coding. Responsive and Litmus tested.
-https://litmus.com/checklist/emails/public/2809f92
-https://litmus.com/checklist/emails/public/bcc71de
+
 
 ### Technologies
 - HTML
