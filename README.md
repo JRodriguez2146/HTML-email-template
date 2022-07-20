@@ -1,6 +1,5 @@
 # HTML-email-template
-These templates were created using HTML, inline CSS, and table based coding. Responsive and Litmus tested.
-
+Responsive email templates that were created using HTML, inline CSS, and tested with Litmus.
 
 ### Technologies
 - HTML
